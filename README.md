@@ -4,8 +4,8 @@
 <a href="https://discord.com/users/728590937441304586">
     <img align ="left" alt='Kasakshi's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-                                                                                                                                  </br>                                                                                                                                
-                                                                                                                                  ![Discord](https://discord.c99.nl/widget/theme-3/728590937441304586.png) </br>
+                                                                                                                                  </br>                                                                                                                              <img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
+                                                                                                                                   </br>
   Hey, I'm Kasakshi a Developer from India. <br>
   **Information:** <br>
   -  I’m currently working on  **Npm Packages and Discord Bots.** <br>
