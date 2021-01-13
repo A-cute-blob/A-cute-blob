@@ -35,4 +35,4 @@
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Kasakshi-Hatake&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kasakshi-Hatake&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasakshi-HatakeDeltaCoderr&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kasakshi-Hatake&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasakshi-Hatake&theme=tokyonight&hide=batchfile">
