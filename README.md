@@ -3,7 +3,12 @@
 <br/>
 <a href="https://discord.com/users/728590937441304586">
     <img align ="left" alt='Kasakshi's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+                                                                                                                                  
   </a>
+  <a href="https://github.com/Kasakshi-Hatake">
+    <img align = "left" alt='Kasakshi's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+" />
+ </a>
                                                                                                                                   </br>                                                                                                                              <img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
                                                                                                                                    </br>
   Hey, I'm Kasakshi a Developer from India. <br>
