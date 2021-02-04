@@ -1,19 +1,19 @@
-### Hi there 👋, I'm Kasakshi
-**Profile Views:-**![Profile Views](https://komarev.com/ghpvc/?username=Kasakshi-Hatake&style=flat)
+### Hi there 👋, I'm Tatsumaki
+**Profile Views:-**![Profile Views](https://komarev.com/ghpvc/?username=tatsumaki-coderr&style=flat)
 
 <br/>
 
 <a href="https://discord.com/users/728590937441304586">
-    <img align ="left" alt='Kasakshi's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt='Tatsumaki's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
                                                                                                                                   
   </a>
-    <a href="https://github.com/Kasakshi-Hatake">
-      <img align ="left" alt='Kasakshi's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+    <a href="https://github.com/tatsumaki-coderr">
+      <img align ="left" alt='Tatsumaki's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                                                                                                                                               </a>
                                                                                                                       </br>    
  </br><img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
                                                                                                                                    </br>
-  Hey, I'm Kasakshi a Developer from India. <br>
+  Hey, I'm Tatsumaki a Developer from India. <br>
   
  **Information:** <br>
   -  I’m currently working on  **Npm Packages and Discord Bots.** <br>
@@ -34,5 +34,5 @@
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Kasakshi-Hatake&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kasakshi-Hatake&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasakshi-Hatake&theme=tokyonight">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=tatsumaki-coderr&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tatsumaki-coderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumaki-coderr&theme=tokyonight">
