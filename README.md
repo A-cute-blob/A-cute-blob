@@ -1,14 +1,14 @@
-### Hi there 👋, I'm Tatsumaki
-**Profile Views:-**![Profile Views](https://komarev.com/ghpvc/?username=tatsumaki-coderr&style=flat)
+### Hi there 👋, I'm A Cute Blob
+**Profile Views:-**![Profile Views](https://komarev.com/ghpvc/?username=A-cute-blob&style=flat)
 
 <br/>
 
 <a href="https://discord.com/users/728590937441304586">
-    <img align ="left" alt='Tatsumaki's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt='A-cute-blob's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
                                                                                                                                   
   </a>
-    <a href="https://github.com/tatsumaki-coderr">
-      <img align ="left" alt='Tatsumaki's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+    <a href="https://github.com/A-cute-blob">
+      <img align ="left" alt='A-cute-blob's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                                                                                                                                               </a>
                                                                                                                       </br>    
  </br><img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
@@ -34,5 +34,5 @@
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=tatsumaki-coderr&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tatsumaki-coderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumaki-coderr&theme=tokyonight">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=A-cute-blob&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight">
