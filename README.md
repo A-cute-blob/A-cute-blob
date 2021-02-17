@@ -13,7 +13,7 @@
                                                                                                                       </br>    
  </br><img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
                                                                                                                                    </br>
-  Hey, I'm Tatsumaki a Developer from India. <br>
+  Hey, I'm a cute blob a Developer from India. <br>
   
  **Information:** <br>
   -  I’m currently working on  **Npm Packages and Discord Bots.** <br>
