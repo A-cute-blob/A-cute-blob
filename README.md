@@ -13,7 +13,7 @@
                                                                                                                       </br>    
  </br><img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
                                                                                                                                    </br>
-  Hey, I'm a cute blob a dude from India. <br>
+
   
  **Information:** <br>
   -  I do a lot of stuff <br>
@@ -39,5 +39,5 @@
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=A-cute-blob&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight">
+<div align="center"><img src="https://github-trophies.vercel.app/?username=A-cute-blob&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight">
