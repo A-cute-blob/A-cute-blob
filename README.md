@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm A Cute Blob
 **Profile Views:-** ![Profile Views](https://komarev.com/ghpvc/?username=A-cute-blob&style=flat)
+## Connect with me:
 
 <br/>
-**Connect with me:** <br>
+
 <a href="https://discord.com/users/728590937441304586">
     <img align ="left" alt='A-cute-blob's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
                                                                                                                                   
