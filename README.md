@@ -39,7 +39,8 @@
 **Stats:**  <br>
 
 <div align="center"><img src="https://github-trophies.vercel.app/?username=A-cute-blob&theme=dracula&count_private=true"></div>
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight&hide_border=true">
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight&hide_border=true">
+<br>
 
 **Quote of the day:** <br>
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
