@@ -43,4 +43,4 @@
 <br>
 
 **Quote of the day:** <br>
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent">
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
