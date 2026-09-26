@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm A Cute Blob
-**Profile Views:-**![Profile Views](https://komarev.com/ghpvc/?username=A-cute-blob&style=flat)
+**Profile Views:-** ![Profile Views](https://komarev.com/ghpvc/?username=A-cute-blob&style=flat)
 
 <br/>
 
@@ -19,7 +19,7 @@
   -  I do a lot of stuff <br>
   - 🌱 I’m currently learning  **C** <br>
   
-  **Languages and Tools:**
+  **Languages and Tools:**<br>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     <code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
@@ -36,8 +36,8 @@
     <code><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/></code>
 <br>
 
-**Stats:**  
-
+**Stats:**  <br>
 
 <div align="center"><img src="https://github-trophies.vercel.app/?username=A-cute-blob&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-stats-extended.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight">
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight">
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
